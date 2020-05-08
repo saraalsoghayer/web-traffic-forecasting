@@ -1,4 +1,4 @@
-# web-traffic-forecasting
+# Web Traffic Forecasting
 
 ## Problem Statment:
 
